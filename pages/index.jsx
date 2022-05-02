@@ -15,12 +15,9 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Welcome to Tal Alon's Portfolio
             </h1>
-            <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
-            </p>
+            <p className="description">Make yourself at home.</p>
 
             <Link href="/contact">
               <a className="cta">Kontak Saya</a>
