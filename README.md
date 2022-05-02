@@ -16,4 +16,4 @@
 
 ### Technologies used:
 
-###### HTML, CSS, Javascript. The portfolio uses netlify.
+##### HTML, CSS, Javascript. The portfolio uses netlify.
